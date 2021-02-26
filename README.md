@@ -3,6 +3,5 @@
 <h2 align="center">Hi, I'm <a href="https://shockerli.net">Jioby</a> 🎉</h1>
 
 - 🇨🇳 Chinese
-- 💻 Programmer
-- ⚡ The self-cultivation of leek stems.
-- https://shockerli.net
+- 📝 https://shockerli.net
+- 🥬 The self-cultivation of leek stems
